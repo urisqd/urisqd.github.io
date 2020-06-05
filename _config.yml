@@ -1,27 +1,20 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: esmaoriol@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Oriol Escudé
+title: Portfolio
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+  All my work in here
+url: http://urisqd.github.io
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
-    url: https://twitter.com/thomasvaeth
+    url: https://twitter.com/osqdm
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
-  - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
-  - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://www.instagram.com/urisqd/
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
@@ -36,9 +29,9 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Oriol Escude
+    bio: Oriol Escude was born in Barcelona. He studied Journalism at the University of the Arts of London.
+  
 
 # Pagination settings
 pagination:
